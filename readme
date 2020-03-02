@@ -1,6 +1,8 @@
 Comparison of models created with transfer knowledge and squeezed nets (without transfer knowledge) trained on a subset of OCT2017 Kermany dataset. 
 Requirements: Tensorflow, OpenCV, Scikit-Image, Matplotlib.
 
+
+
 The complete results are described in: 
 "Towards Balancing the Complexity of Convolutional Neural Network with the Role of Optical Coherence Tomography in Retinal Conditions", ICCP 2019.
 https://ieeexplore.ieee.org/document/8959714/
