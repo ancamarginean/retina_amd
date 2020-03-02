@@ -1,5 +1,8 @@
-Comparison of models created with transfer knowledge and squeezed nets (without transfer knowledge) trained on a subset of OCT2017 Kermany dataset. 
-Classical occlusion test and a change for wrongly classified images is included in the notebook. 
+The context: Deep Learning for Age Related Macular Degeneration and other retina diseases
+Resources: 
+- model trained on subset of Kermany 2017 OCT scans dataset from scratch with squeeze net.
+- notebook which includes application of the model and of the occlusion test
+- which parts of the OCT are relevant for the predicted class and for the correct class - identified with a modified heatmap for cases where the prediction is wrong (the notebook includes a case of OCT scan for DME which was classified as Normal & the resulted images after application of the masks)
 
 Requirements: Tensorflow, OpenCV, Scikit-Image, Matplotlib.
 
