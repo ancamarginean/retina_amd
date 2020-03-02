@@ -1,4 +1,6 @@
 Comparison of models created with transfer knowledge and squeezed nets (without transfer knowledge) trained on a subset of OCT2017 Kermany dataset. 
+Classical occlusion test and a change for wrongly classified images is included in the notebook. 
+
 Requirements: Tensorflow, OpenCV, Scikit-Image, Matplotlib.
 
 
