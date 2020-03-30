@@ -11,3 +11,4 @@ Requirements: Tensorflow, OpenCV, Scikit-Image, Matplotlib.
 The complete results are described in: 
 "Towards Balancing the Complexity of Convolutional Neural Network with the Role of Optical Coherence Tomography in Retinal Conditions", ICCP 2019.
 https://ieeexplore.ieee.org/document/8959714/
+The Slides and the draft version of the article are also available on ResearchGate
